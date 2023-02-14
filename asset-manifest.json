@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/masonry-grid/static/css/main.8d71b244.css",
+    "main.js": "/masonry-grid/static/js/main.b565289e.js",
+    "index.html": "/masonry-grid/index.html",
+    "main.8d71b244.css.map": "/masonry-grid/static/css/main.8d71b244.css.map",
+    "main.b565289e.js.map": "/masonry-grid/static/js/main.b565289e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d71b244.css",
+    "static/js/main.b565289e.js"
+  ]
+}
